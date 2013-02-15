@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.tw</groupId>
+  <artifactId>jira-maven-plugin</artifactId>
+  <versioning>
+    <latest>2.1-SNAPSHOT</latest>
+    <versions>
+      <version>2.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130215234203</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,6 +1,8 @@
 maven_repo
 ==========
 
+This Repository is not used now. JSqlParser is published to maven central.
+
 ## Maven Repository
 
 This is my github maven repository. Starting from now I will deploy here. 
